@@ -1,0 +1,5 @@
+Langkah - langkah Instalasi Aplikasi:
+1) Import database dengan nama pisma
+2) Gunakan XAMPP dengan PHP versi 5.6.31
+3) Akses aplikasi dengan Google Chrome atau Mozilla Firefox
+4) Ketikkan URL "localhost/ukom_rahmat/"

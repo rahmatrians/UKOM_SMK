@@ -1,0 +1,13 @@
+NAMA APLIKASI 	: PISMA
+NAMA FOLDER 	: ukom_rahmat
+DATABASE 		: pisma
+Versi PHP		: 5.6.31
+
+USER 				=> Anggota 	=> username 	: rahmatrians
+						=> password		: rians123
+
+	 			=> Pengelola 	=> username 	: pengelola
+						=> password		: pengelola
+
+	 			=> Manajemen 	=> username 	: manajemen
+						=> password		: manajemen

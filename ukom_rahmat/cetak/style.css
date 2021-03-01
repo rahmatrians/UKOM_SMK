@@ -1,0 +1,43 @@
+body {
+	font-family: 'Arial';
+}
+
+.judul {
+	color: #4E54C8;
+}
+
+.border {
+	margin-top: 10px;
+	width: 100px;
+	height: 5px;
+	background-color: #4E54C8;
+}
+
+.dateNow {
+	font-size: 12px;
+	color: #4E54C8;
+	position: fixed;
+	right: 0;
+	top: 0;
+}
+
+table {
+	margin: 0 auto;
+	border-spacing: 0;
+	width: 100%;
+}
+
+table thead tr th {
+	background-color: #4E54C8;
+	padding: 10px 0;
+	color: white;
+}
+
+table tr:nth-child(even) {
+	background-color: #D5D7F2;
+}
+
+table tr td {
+	padding: 5px 50px;
+	text-align: center;
+}
